@@ -43,6 +43,11 @@ This project illustrates the fundamental concepts of Django REST Framework:
 
 ## Usage
 
+### Install package
+```bash
+uv add pygment
+```
+
 ### Start the development server
 ```bash
 uv run python manage.py runserver
